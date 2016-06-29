@@ -13,8 +13,9 @@ public class WebAppTest
 	@Test
 	public void webSiteTest()
 	{
-		WebDriver driver = new FirefoxDriver();
-		driver.get("https://lendingclub.com");
-		driver.quit();
+		//WebDriver driver = new FirefoxDriver();
+		//driver.get("https://lendingclub.com");
+		//driver.quit();
+		System.out.println("Second Test");
 	}
 }
